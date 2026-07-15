@@ -9,9 +9,9 @@ Data Analytics Professional with an M.S. in Analytics from Northeastern Universi
 - **Domain Focus:** Machine Learning, Predictive Analytics, Data Cleaning & Processing
 
 ## 🚀 Featured Projects
-- [Analytics Dashboard](https://github.com/ammaboaamponsem/amma-dashboard-project) - Interactive data visualization.
+- [Analytics Dashboard](https://github.com/ammaboaamponsem/analytics-dashboard) - Interactive data visualization.
 - [Income Prediction](https://github.com/ammaboaamponsem/log-reg-deploy-url) - ML model analyzing Census data with 80%+ accuracy.
-- [E-commerce Storefront](https://github.com/ammaboaamponsem/amma-ecommerce-project) - Web implementation of e-commerce architecture.
+- [E-commerce Storefront](https://github.com/ammaboaamponsem/ecommerce-project) - Web implementation of e-commerce architecture.
 - [Bike-Sharing Analytics](https://github.com/ammaboaamponsem/bike_sharing_analysis) - SQL/Python/Tableau EDA.
 
 ## 📫 Let's Connect
